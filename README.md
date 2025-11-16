@@ -35,7 +35,7 @@ This project simulates a functional **dummy registration portal** where students
 
 ---
 
-## **🛠️ Tech Stack**
+## ** Tech Stack**
 
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Backend:** *(Php)*  
